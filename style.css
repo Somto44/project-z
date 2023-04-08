@@ -1,0 +1,76 @@
+        /* font-family: 'Playfair Display', serif;
+        color: #824936;
+        font-size: 60px; */
+
+        /* font-family: 'Roboto', sans-serif;
+        font-size: 18px; */
+
+    
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Playfair Display', serif;
+    font-size: 15px;
+    margin: 0;
+}  
+
+header {
+    background-color: #f3eed9 ;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #824936;
+    padding: 30px;
+    text-align: center;
+
+}
+header h1 {
+    margin-top: 2px;
+}
+span {
+    color: black;
+    letter-spacing: 7px;
+    text-transform: uppercase;
+    font-weight: 100;
+    font-family: 'Roboto', sans-serif;
+}
+
+.text{
+    display: flex;
+    font-family: 'Playfair Display Black',serif;
+}
+
+h2{
+   color: #824936;
+}
+
+.contanier{
+    background-color:#222c2a;
+    height: 500px;
+    color: white;
+}
+
+img{
+    height: 200px;
+    width: 400px;
+
+}
+
+.footer{
+    background-color: #824936;
+    height: 500px;
+}
+
+.text{
+    color: white;
+}
+
+h5{
+    font-size: large;
+}
+
+
